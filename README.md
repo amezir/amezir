@@ -11,3 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/am%C3%A9zir-messaoud-6b2862221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amézir messaoud" height="30" width="40" /></a><a href="https://dev.to/amezir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amezir" height="30" width="40" /></a><a href="https://codepen.io/ame75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ame75" height="30" width="40" /></a><a href="https://twitter.com/amezir75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amezir75" height="30" width="40" /></a><a href="https://stackoverflow.com/users/20251844/am%c3%a9zir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20251844" height="30" width="40" /></a></p>
+
+<p align="center"> 
+  Visitor count<br>
+   <img src="https://profile-counter.glitch.me/amezir/count.svg" />
+</p>
+
