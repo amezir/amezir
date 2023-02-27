@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=000000&background=FFFFFF&center=true&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Am%C3%A9zir+Messaoud;Welcome+to+my+github+page;Upcoming+Full-Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=000000&background=FFFFFF&center=true&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Am%C3%A9zir+Messaoud;Welcome+to+my+github+page;Upcoming+Full-Stack+Developer" alt="Typing SVG" /></a>
 <h3 align="center">A passionate web developer from France</h3>
 
 - 👨‍💻 All of my projects are available at (https://amezirmessaoud.fr)
