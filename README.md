@@ -4,7 +4,7 @@
 
 <h2 align="center"><a href="https://amezirmessaoud.fr">https://amezirmessaoud.fr</a></h2>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=10000&pause=10000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=Tech Stacks%3A" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=10000&pause=10000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=✧+Tech Stacks+✧" alt="Typing SVG" /></a></div>
 <table border="0">
     <tr>
     <td><b style="font-size:30px">✧ Language</b></td>
@@ -60,7 +60,7 @@
     </tr>
 </table>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=10000&pause=10000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=My+GitHub+Stats%3A" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=10000&pause=10000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=✧+My+GitHub+Stats+✧" alt="Typing SVG" /></a></div>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amezir&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="amezir"/></p>
 <br>
