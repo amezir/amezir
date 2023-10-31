@@ -7,48 +7,51 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=10000&pause=10000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a></div>
 <table border="0">
     <tr>
-        <td><b style="font-size:30px">Language</b></td>
-        <td><b style="font-size:30px">Librarie</b></td>
-        <td><b style="font-size:30px">Hosting</b></td>
+        <td><b style="font-size:30px">Langage</b></td>
+        <td><b style="font-size:30px">Bibliothèque</b></td>
+        <td><b style="font-size:30px">Hébergement</b></td>
         <td><b style="font-size:30px">CMS</b></td>
     </tr>
     <tr>
         <td>
-        
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-            ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-            ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-            ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+            <!-- Badges de langage avec Shields.io en différentes couleurs -->
+            <img src="https://img.shields.io/badge/HTML5-%23FF5733.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+            <img src="https://img.shields.io/badge/CSS3-%23FFC300.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+            <img src="https://img.shields.io/badge/JavaScript-%23FF5733.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+            <img src="https://img.shields.io/badge/PHP-%23FFC300.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+            <img src="https://img.shields.io/badge/MySQL-%23FF5733.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+            <img src="https://img.shields.io/badge/Git-%23FFC300.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         </td>
         <td>
-            ![ReactJS](https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react&logoColor=%234FC08D)
-            ![NextJS](https://img.shields.io/badge/nextjs-%2335495e.svg?style=for-the-badge&logo=next.js&logoColor=%234FC08D)
-            ![Svelte](https://img.shields.io/badge/svelte-%2335495e.svg?style=for-the-badge&logo=svelte&logoColor=%234FC08D)
-            ![VueJS](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-            ![Sass](https://img.shields.io/badge/sass-%2335495e.svg?style=for-the-badge&logo=sass&logoColor=%234FC08D)
-            ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-            ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2335495e.svg?style=for-the-badge&logo=tailwind-css&logoColor=%234FC08D)
-            ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-            ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-            ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-            ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-            ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+            <!-- Badges de bibliothèque avec Shields.io en différentes couleurs -->
+            <img src="https://img.shields.io/badge/ReactJS-%23FF5733.svg?style=for-the-badge&logo=react&logoColor=%234FC08D" alt="ReactJS">
+            <img src="https://img.shields.io/badge/NextJS-%23FFC300.svg?style=for-the-badge&logo=next.js&logoColor=%234FC08D" alt="NextJS">
+            <img src="https://img.shields.io/badge/Svelte-%23FF5733.svg?style=for-the-badge&logo=svelte&logoColor=%234FC08D" alt="Svelte">
+            <img src="https://img.shields.io/badge/VueJS-%23FFC300.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="VueJS">
+            <img src="https://img.shields.io/badge/Sass-%23FF5733.svg?style=for-the-badge&logo=sass&logoColor=%234FC08D" alt="Sass">
+            <img src="https://img.shields.io/badge/Bootstrap-%23FFC300.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+            <img src="https://img.shields.io/badge/TailwindCSS-%23FF5733.svg?style=for-the-badge&logo=tailwind-css&logoColor=%234FC08D" alt="TailwindCSS">
+            <img src="https://img.shields.io/badge/Chart.js-%23FFC300.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js">
+            <img src="https://img.shields.io/badge/jQuery-%23FF5733.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+            <img src="https://img.shields.io/badge/Node.js-%23FFC300.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+            <img src="https://img.shields.io/badge/threejs-%23FF5733.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
+            <img src="https://img.shields.io/badge/vite-%23FFC300.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
         </td>
         <td>
-            ![O2switch](https://img.shields.io/badge/O2switch-ff611d?style=for-the-badge)
-            ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-            ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-            ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-            ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-            ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-            ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+            <!-- Badges d'hébergement avec Shields.io en différentes couleurs -->
+            <img src="https://img.shields.io/badge/O2switch-%23FF5733.svg?style=for-the-badge" alt="O2switch">
+            <img src="https://img.shields.io/badge/github%20pages-%23FFC300.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
+            <img src="https://img.shields.io/badge/vercel-%23FF5733.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+            <img src="https://img.shields.io/badge/apache-%23FFC300.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
+            <img src="https://img.shields.io/badge/Linux-%23FF5733.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+            <img src="https://img.shields.io/badge/Ubuntu-%23FFC300.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+            <img src="https://img.shields.io/badge/Debian-%23FF5733.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
         </td>
         <td>
-            ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-            ![Shopify](https://img.shields.io/badge/Shopify-%23117AC9.svg?style=for-the-badge&logo=Shopify&logoColor=white)
-            ![Prestashop](https://img.shields.io/badge/Prestashop-%23117AC9.svg?style=for-the-badge&logo=Prestashop&logoColor=white)
+            <!-- Badges de CMS avec Shields.io en différentes couleurs -->
+            <img src="https://img.shields.io/badge/WordPress-%23FF5733.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
+            <img src="https://img.shields.io/badge/Shopify-%23FFC300.svg?style=for-the-badge&logo=Shopify&logoColor=white" alt="Shopify">
+            <img src="https://img.shields.io/badge/Prestashop-%23FF5733.svg?style=for-the-badge&logo=Prestashop&logoColor=white" alt="Prestashop">
         </td>
     </tr>
 </table>
