@@ -18,10 +18,10 @@
             <img src="https://img.shields.io/badge/HTML5-%23FF5733.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
             <img src="https://img.shields.io/badge/CSS3-%234FC08D.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
             <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
             <img src="https://img.shields.io/badge/PHP-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
             <img src="https://img.shields.io/badge/MySQL-%238A6DB7.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
             <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
         </td>
         <td>
             <!-- Badges de bibliothèque avec Shields.io en multicolore -->
