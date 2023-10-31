@@ -1,4 +1,5 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Am%C3%A9zir+Messaoud;Welcome+to+my+github+page;Upcoming+Full-Stack+Developer" alt="Typing SVG" /></a></div>
+
 <h3 align="center">A passionate web developer from France</h3>
 
 <h2 align="center"><a href="https://amezirmessaoud.fr">https://amezirmessaoud.fr</a></h2>
@@ -15,8 +16,8 @@
         <td>
         
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-            ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-            ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
             ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
             ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
             ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
