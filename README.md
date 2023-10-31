@@ -21,6 +21,7 @@
             <img src="https://img.shields.io/badge/PHP-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
             <img src="https://img.shields.io/badge/MySQL-%238A6DB7.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
             <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
         </td>
         <td>
             <!-- Badges de bibliothèque avec Shields.io en multicolore -->
