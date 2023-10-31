@@ -6,16 +6,13 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=10000&pause=10000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a></div>
 
 <table border="0">
-    
     <tr>
         <td><b style="font-size:30px">Language</b></td>
         <td><b style="font-size:30px">Librarie</b></td>
         <td><b style="font-size:30px">Hosting</b></td>
         <td><b style="font-size:30px">CMS</b></td>
     </tr>
-    
     <tr>
-        
         <td>
             ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
             ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,7 +21,6 @@
             ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
             ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
         </td>
-        
         <td>
             ![ReactJS](https://img.shields.io/badge/reactjs-%2335495e.svg?style=for-the-badge&logo=react&logoColor=%234FC08D)
             ![NextJS](https://img.shields.io/badge/nextjs-%2335495e.svg?style=for-the-badge&logo=next.js&logoColor=%234FC08D)
@@ -39,7 +35,6 @@
             ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
             ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
         </td>
-        
         <td>
             ![O2switch](https://img.shields.io/badge/O2switch-ff611d?style=for-the-badge)
             ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
@@ -49,15 +44,12 @@
             ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
             ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
         </td>
-        
         <td>
             ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
             ![Shopify](https://img.shields.io/badge/Shopify-%23117AC9.svg?style=for-the-badge&logo=Shopify&logoColor=white)
             ![Prestashop](https://img.shields.io/badge/Prestashop-%23117AC9.svg?style=for-the-badge&logo=Prestashop&logoColor=white)
         </td>
-        
     </tr>
-
 </table>
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=10000&pause=10000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=My+GitHub+Stats%3A" alt="Typing SVG" /></a></div>
