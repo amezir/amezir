@@ -4,7 +4,6 @@
 <h2 align="center"><a href="https://amezirmessaoud.fr">https://amezirmessaoud.fr</a></h2>
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=10000&pause=10000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a></div>
-
 <table border="0">
     <tr>
         <td><b style="font-size:30px">Language</b></td>
