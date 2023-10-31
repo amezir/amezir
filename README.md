@@ -14,44 +14,44 @@
     </tr>
     <tr>
         <td>
-            <!-- Badges de langage avec Shields.io en différentes couleurs -->
+            <!-- Badges de langage avec Shields.io en multicolore -->
             <img src="https://img.shields.io/badge/HTML5-%23FF5733.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-            <img src="https://img.shields.io/badge/CSS3-%23FFC300.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-            <img src="https://img.shields.io/badge/JavaScript-%23FF5733.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-            <img src="https://img.shields.io/badge/PHP-%23FFC300.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-            <img src="https://img.shields.io/badge/MySQL-%23FF5733.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-            <img src="https://img.shields.io/badge/Git-%23FFC300.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+            <img src="https://img.shields.io/badge/CSS3-%234FC08D.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+            <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+            <img src="https://img.shields.io/badge/PHP-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+            <img src="https://img.shields.io/badge/MySQL-%238A6DB7.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+            <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         </td>
         <td>
-            <!-- Badges de bibliothèque avec Shields.io en différentes couleurs -->
-            <img src="https://img.shields.io/badge/ReactJS-%23FF5733.svg?style=for-the-badge&logo=react&logoColor=%234FC08D" alt="ReactJS">
-            <img src="https://img.shields.io/badge/NextJS-%23FFC300.svg?style=for-the-badge&logo=next.js&logoColor=%234FC08D" alt="NextJS">
-            <img src="https://img.shields.io/badge/Svelte-%23FF5733.svg?style=for-the-badge&logo=svelte&logoColor=%234FC08D" alt="Svelte">
-            <img src="https://img.shields.io/badge/VueJS-%23FFC300.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="VueJS">
-            <img src="https://img.shields.io/badge/Sass-%23FF5733.svg?style=for-the-badge&logo=sass&logoColor=%234FC08D" alt="Sass">
-            <img src="https://img.shields.io/badge/Bootstrap-%23FFC300.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-            <img src="https://img.shields.io/badge/TailwindCSS-%23FF5733.svg?style=for-the-badge&logo=tailwind-css&logoColor=%234FC08D" alt="TailwindCSS">
-            <img src="https://img.shields.io/badge/Chart.js-%23FFC300.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js">
-            <img src="https://img.shields.io/badge/jQuery-%23FF5733.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
-            <img src="https://img.shields.io/badge/Node.js-%23FFC300.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-            <img src="https://img.shields.io/badge/threejs-%23FF5733.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
-            <img src="https://img.shields.io/badge/vite-%23FFC300.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+            <!-- Badges de bibliothèque avec Shields.io en multicolore -->
+            <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS">
+            <img src="https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
+            <img src="https://img.shields.io/badge/Svelte-%238B572A.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+            <img src="https://img.shields.io/badge/VueJS-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt "VueJS">
+            <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+            <img src="https://img.shields.io/badge/Bootstrap-%238A6DB7.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+            <img src="https://img.shields.io/badge/TailwindCSS-%2307B2CC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+            <img src="https://img.shields.io/badge/Chart.js-%23FF5733.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js">
+            <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+            <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+            <img src="https://img.shields.io/badge/threejs-%23469FDB.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
+            <img src="https://img.shields.io/badge/vite-%23FF5733.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
         </td>
         <td>
-            <!-- Badges d'hébergement avec Shields.io en différentes couleurs -->
+            <!-- Badges d'hébergement avec Shields.io en multicolore -->
             <img src="https://img.shields.io/badge/O2switch-%23FF5733.svg?style=for-the-badge" alt="O2switch">
-            <img src="https://img.shields.io/badge/github%20pages-%23FFC300.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
-            <img src="https://img.shields.io/badge/vercel-%23FF5733.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-            <img src="https://img.shields.io/badge/apache-%23FFC300.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
-            <img src="https://img.shields.io/badge/Linux-%23FF5733.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-            <img src="https://img.shields.io/badge/Ubuntu-%23FFC300.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-            <img src="https://img.shields.io/badge/Debian-%23FF5733.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
+            <img src="https://img.shields.io/badge/github%20pages-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
+            <img src="https://img.shields.io/badge/vercel-%2364C58B.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+            <img src="https://img.shields.io/badge/apache-%23CC0000.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
+            <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+            <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+            <img src="https://img.shields.io/badge/Debian-%23A80030.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
         </td>
         <td>
-            <!-- Badges de CMS avec Shields.io en différentes couleurs -->
-            <img src="https://img.shields.io/badge/WordPress-%23FF5733.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
-            <img src="https://img.shields.io/badge/Shopify-%23FFC300.svg?style=for-the-badge&logo=Shopify&logoColor=white" alt="Shopify">
-            <img src="https://img.shields.io/badge/Prestashop-%23FF5733.svg?style=for-the-badge&logo=Prestashop&logoColor=white" alt="Prestashop">
+            <!-- Badges de CMS avec Shields.io en multicolore -->
+            <img src="https://img.shields.io/badge/WordPress-%2322317E.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
+            <img src="https://img.shields.io/badge/Shopify-%23E95B4F.svg?style=for-the-badge&logo=Shopify&logoColor=white" alt="Shopify">
+            <img src="https://img.shields.io/badge/Prestashop-%23D34E48.svg?style=for-the-badge&logo=Prestashop&logoColor=white" alt="Prestashop">
         </td>
     </tr>
 </table>
