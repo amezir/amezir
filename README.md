@@ -7,10 +7,10 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=10000&pause=10000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=Languages+and+Tools%3A" alt="Typing SVG" /></a></div>
 <table border="0">
     <tr>
-        <td><b style="font-size:30px">Langage</b></td>
-        <td><b style="font-size:30px">Bibliothèque</b></td>
-        <td><b style="font-size:30px">Hébergement</b></td>
-        <td><b style="font-size:30px">CMS</b></td>
+    <td><b style="font-size:30px">Language</b></td>
+    <td><b style="font-size:30px">Librarie</b></td>
+    <td><b style="font-size:30px">Hosting</b></td>
+    <td><b style="font-size:30px">CMS</b></td>
     </tr>
     <tr>
         <td>
