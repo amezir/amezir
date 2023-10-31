@@ -37,6 +37,8 @@
             <img src="https://img.shields.io/badge/threejs-%23469FDB.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
             <img src="https://img.shields.io/badge/vite-%23FF5733.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
             <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+            <img src="https://img.shields.io/badge/AOS-%233FB27F.svg?style=for-the-badge" alt="AOS">
+            <img src="https://img.shields.io/badge/GSAP-%2336A9E0.svg?style=for-the-badge" alt="GSAP">
         </td>
         <td>
             <!-- Badges d'hébergement avec Shields.io en multicolore -->
