@@ -14,7 +14,6 @@
     </tr>
     <tr>
         <td>
-            <!-- Badges de langage avec Shields.io en multicolore -->
             <img src="https://img.shields.io/badge/HTML5-%23FF5733.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
             <img src="https://img.shields.io/badge/CSS3-%234FC08D.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
             <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -24,7 +23,6 @@
             <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         </td>
         <td>
-            <!-- Badges de bibliothèque avec Shields.io en multicolore -->
             <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS">
             <img src="https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
             <img src="https://img.shields.io/badge/Svelte-%238B572A.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
@@ -42,7 +40,6 @@
             <img src="https://img.shields.io/badge/GSAP-%2336A9E0.svg?style=for-the-badge" alt="GSAP">
         </td>
         <td>
-            <!-- Badges d'hébergement avec Shields.io en multicolore -->
             <img src="https://img.shields.io/badge/O2switch-%23FF5733.svg?style=for-the-badge" alt="O2switch">
             <img src="https://img.shields.io/badge/github%20pages-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
             <img src="https://img.shields.io/badge/vercel-%2364C58B.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
@@ -52,7 +49,6 @@
             <img src="https://img.shields.io/badge/Debian-%23A80030.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
         </td>
         <td>
-            <!-- Badges de CMS avec Shields.io en multicolore -->
             <img src="https://img.shields.io/badge/WordPress-%2322317E.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
             <img src="https://img.shields.io/badge/Shopify-%23E95B4F.svg?style=for-the-badge&logo=Shopify&logoColor=white" alt="Shopify">
             <img src="https://img.shields.io/badge/Prestashop-%23D34E48.svg?style=for-the-badge&logo=Prestashop&logoColor=white" alt="Prestashop">
