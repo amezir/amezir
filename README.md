@@ -63,7 +63,6 @@
   
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=10000&pause=10000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=Connect+with+me%3A" alt="Typing SVG" /></a></div>
 <br>
-<p align="center"><a href="https://dev.to/amezir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amezir" height="30" width="40" /></a><a href="https://codepen.io/ame75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ame75" height="30" width="40" /></a><a href="https://stackoverflow.com/users/20251844/am%c3%a9zir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20251844" height="30" width="40" /></a></p>
 
 <p align="center"> 
   <a href="mailto:amezirmessaoud.pro@gmail.com target="_blank" alt="Gmail">
