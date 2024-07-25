@@ -5,12 +5,13 @@
 <h2 align="center"><a href="https://amezirmessaoud.fr">https://amezirmessaoud.fr</a></h2>
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=10000&pause=10000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=✧+Tech Stacks+✧" alt="Typing SVG" /></a></div>
+
 <table border="0">
     <tr>
-    <td><b style="font-size:30px">✧ Language</b></td>
-    <td><b style="font-size:30px">✧ Librarie</b></td>
-    <td><b style="font-size:30px">✧ Hosting</b></td>
-    <td><b style="font-size:30px">✧ CMS</b></td>
+        <td><b style="font-size:30px">✧ Langage</b></td>
+        <td><b style="font-size:30px">✧ Bibliothèque</b></td>
+        <td><b style="font-size:30px">✧ Hébergement</b></td>
+        <td><b style="font-size:30px">✧ CMS</b></td>
     </tr>
     <tr>
         <td>
@@ -21,12 +22,13 @@
             <img src="https://img.shields.io/badge/PHP-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
             <img src="https://img.shields.io/badge/MySQL-%238A6DB7.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
             <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+            <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
         </td>
         <td>
             <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS">
             <img src="https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
             <img src="https://img.shields.io/badge/Svelte-%238B572A.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
-            <img src="https://img.shields.io/badge/VueJS-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt "VueJS">
+            <img src="https://img.shields.io/badge/VueJS-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="VueJS">
             <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
             <img src="https://img.shields.io/badge/Bootstrap-%238A6DB7.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
             <img src="https://img.shields.io/badge/TailwindCSS-%2307B2CC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
@@ -38,6 +40,8 @@
             <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
             <img src="https://img.shields.io/badge/AOS-%233FB27F.svg?style=for-the-badge" alt="AOS">
             <img src="https://img.shields.io/badge/GSAP-%2336A9E0.svg?style=for-the-badge" alt="GSAP">
+            <img src="https://img.shields.io/badge/Symfony-%230B0C0E.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
+            <img src="https://img.shields.io/badge/Lenis-%238C1D40.svg?style=for-the-badge&logo=Lenis&logoColor=white" alt="Lenis">
         </td>
         <td>
             <img src="https://img.shields.io/badge/O2switch-%23FF5733.svg?style=for-the-badge" alt="O2switch">
