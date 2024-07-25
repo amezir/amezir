@@ -8,9 +8,9 @@
 
 <table border="0">
     <tr>
-        <td><b style="font-size:30px">✧ Langage</b></td>
-        <td><b style="font-size:30px">✧ Bibliothèque</b></td>
-        <td><b style="font-size:30px">✧ Hébergement</b></td>
+        <td><b style="font-size:30px">✧ Language</b></td>
+        <td><b style="font-size:30px">✧ Library</b></td>
+        <td><b style="font-size:30px">✧ Hosting</b></td>
         <td><b style="font-size:30px">✧ CMS</b></td>
     </tr>
     <tr>
