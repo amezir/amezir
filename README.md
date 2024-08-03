@@ -62,7 +62,7 @@
 
 <table border="0">
     <tr>
-        <td><b style="font-size:30px">✧ Design & UI/UX</b></td>
+        <td><b style="font-size:30px">✧ Design tools</b></td>
     </tr>
     <tr>
         <td>
