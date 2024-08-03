@@ -60,6 +60,19 @@
     </tr>
 </table>
 
+<table border="0">
+    <tr>
+        <td><b style="font-size:30px">✧ Design & UI/UX</b></td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+            <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2300C4CC.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
+            <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator">
+        </td>
+    </tr>
+</table>
+
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=10000&pause=10000&color=000000&background=FFFFFF&center=true&width=1000&height=100&lines=✧+My+GitHub+Stats+✧" alt="Typing SVG" /></a></div>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amezir&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="amezir"/></p>
