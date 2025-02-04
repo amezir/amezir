@@ -12,6 +12,7 @@
         <td><b style="font-size:30px">✧ Library</b></td>
         <td><b style="font-size:30px">✧ Hosting</b></td>
         <td><b style="font-size:30px">✧ CMS</b></td>
+        <td><b style="font-size:30px">✧ Mobile</b></td>
     </tr>
     <tr>
         <td>
@@ -57,6 +58,10 @@
             <img src="https://img.shields.io/badge/Shopify-%23E95B4F.svg?style=for-the-badge&logo=Shopify&logoColor=white" alt="Shopify">
             <img src="https://img.shields.io/badge/Prestashop-%23D34E48.svg?style=for-the-badge&logo=Prestashop&logoColor=white" alt="Prestashop">
         </td>
+        <td>
+            <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+            <img src="https://img.shields.io/badge/Expo%20Go-%23000000.svg?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go">
+        </td>
     </tr>
 </table>
 
@@ -69,6 +74,7 @@
             <img src="https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
             <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2300C4CC.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
             <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator">
+            <img src="https://img.shields.io/badge/Spline%203D-%23000000.svg?style=for-the-badge&logo=spline&logoColor=white" alt="Spline 3D">
         </td>
     </tr>
 </table>
@@ -82,7 +88,7 @@
 <br>
 
 <p align="center"> 
-  <a href="mailto:amezirmessaoud.pro@gmail.com target="_blank" alt="Gmail">
+  <a href="mailto:amezirmessaoud.pro@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/amezirmessaoud" target="_blank" alt="LinkedIn">
@@ -93,4 +99,3 @@
   Visitor count<br>
    <img src="https://profile-counter.glitch.me/amezir/count.svg" />
 </p>
-
