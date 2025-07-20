@@ -12,7 +12,7 @@
 I design. I code. I ship.  
 From Figma to production, I craft coherent, elegant, and high-performing digital experiences.
 
-My journey began in graphic design and evolved into a passion for development — where visual storytelling meets technical precision.
+My journey began in graphic design and evolved into a passion for development where visual storytelling meets technical precision.
 
 **What drives me**  
 ✨ Designing thoughtful, accessible, and clean interfaces  
