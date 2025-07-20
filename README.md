@@ -29,7 +29,7 @@ HTML5 · CSS3 · JavaScript · TypeScript · PHP · MySQL
 React · Next.js · TypeScript · Vue.js · Svelte · Node.js  
 TailwindCSS · Sass · Bootstrap · Laravel · Symfony  
 Three.js · GSAP · AOS · Chart.js · Lenis · Vite · jQuery  
-Jest · Testing Library
+Jest · Testing Library ...and more
 
 ### ✧ CMS & Platforms  
 WordPress · Shopify · Prestashop
