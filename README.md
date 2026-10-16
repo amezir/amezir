@@ -1,11 +1,11 @@
 ### Hi👋🏻,
-**I'm [**Amézir**](https://www.miraya.tech](https://amezirmessaoud.fr)) a Creative Full Stack Developer & UI/UX Designer**  
+**I'm [**Amézir**](https://www.miraya.tech](https://www.amezirmessaoud.fr)) a Creative Full Stack Developer**  
 
 🎓 Master's Degree in Interactive Digital Experiences (ECNI) Gobelins Paris  
 💼 Open to Work | Looking for a Front-End / Full Stack Developer position
 
 🌍 Based in Paris, France  
-🔗 [amezirmessaoud.fr](https://amezirmessaoud.fr)  
+🔗 [amezirmessaoud.fr](https://www.amezirmessaoud.fr)  
 📫 amezirmessaoud.pro@gmail.com
 
 ## 🚀 About Me
